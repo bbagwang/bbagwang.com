@@ -12,7 +12,7 @@ dateFormat = "2006-01-02"
 logo = "img/main_logo.png"
 secondaryLogo = "img/main_logo.png"
 
-["params.author"]
+[params.author]
 name = "BBAGWANG"
 bio = "I'm N00B"
 image = "img/bbagwang.png"
