@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "POST"
+pageRef = "posts"
+identifier = "zob1MHsG4U"
+weight = 9_999
+
+[[main]]
+name = "PROJECT"
+pageRef = "project"
+identifier = "zGmKjduoOO"
+weight = 9_999
+
+[[footer]]
+none = "none"
